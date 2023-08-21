@@ -1,6 +1,6 @@
 # Hi, I'm Rosa!👋
 
-I'm an informatics engineering student who passinate to be a <code>**Front-End Developer**</code> with a flair for creating <code>**user-friendly and effectively website**</code>. I'm a <code>**junior**</code> who deepening <code>**JavaScript**</code>, <code>**PHP**</code>, <code>**Boostrap**</code>, and <code>**Figma**</code>. I do enthusiastic to built precious and functional digital applications.
+I'm an informatics engineering student who passi0nate to be a <code>**Front-End Developer**</code> with a flair for creating <code>**user-friendly and effectively website**</code>. I'm a <code>**junior**</code> who deepening <code>**JavaScript**</code>, <code>**PHP**</code>, <code>**Boostrap**</code>, and <code>**Figma**</code>. I do enthusiastic to built precious and functional digital applications.
 
 📞 Reach me out!
 
