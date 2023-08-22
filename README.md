@@ -4,7 +4,7 @@ I'm an informatics engineering student who passionate to be a <code>**Front-End 
 
 📞 Reach me out!
 
-[![linkedin](https://img.shields.io/badge/Rosa_Salsa_Saida-21759B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalsaida/) [![instagram](https://img.shields.io/badge/@rosalsaida-F01F7A?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rosalsaida/) [![mail](https://img.shields.io/badge/rosalsaida82-EB1923?style=flat&logo=gmail&logoColor=white)](mailto:rosalsaida82@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-21759B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalsaida/) [![instagram](https://img.shields.io/badge/instagram-F01F7A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosalsaida/) [![mail](https://img.shields.io/badge/gmail-EB1923?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosalsaida82@gmail.com)
 
 ### What I do
 
